@@ -2,7 +2,7 @@
 import os, sys, random, textwrap  ## OSiga suhtlemiseks ja suvaliste arvude
                         # genereerimiseks vajalike teekide importimine.
 
-punktiir      = "---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---"
+punktiir = "---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---   ---"
 kogutud_mõtted  = []    ## Muutujad kasutajaliideses paljukasutatava sõne
 ajutised_mõtted = []    #  punktiir jaoks ning mõtete haldamiseks.
 
